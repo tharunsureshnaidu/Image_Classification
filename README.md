@@ -1,3 +1,7 @@
+# Image_Classification
+Image Classification whether a person is Happy or Sad
+
+Here I have Web scraped and collected the Images of Happy people and Sad ones in Seperate Folder then I have 
 Data Collection:
 Web Scraping: Collected images of happy and sad individuals using automated scripts.
 
